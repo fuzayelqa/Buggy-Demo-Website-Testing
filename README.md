@@ -52,6 +52,3 @@ Log defects in Jira (or equivalent tool) during execution.
 Prepared By: OZIH UDDIN AL FUZAYEL, SQA
 📅 Date: 25 September 2025
 
-
-Prepared By: OZIH UDDIN AL FUZAYEL, SQA
-📅 Date: 25 September 2025
