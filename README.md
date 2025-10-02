@@ -49,6 +49,5 @@ Use PDF Test Cases for quick reference or sharing with stakeholders.
 Log defects in Jira (or equivalent tool) during execution.
 
 # 👤 Author
-Prepared By: OZIH UDDIN AL FUZAYEL, SQA
-📅 Date: 25 September 2025
+Prepared By: OZIH UDDIN AL FUZAYEL, SQA. Date: 25 September 2025
 
