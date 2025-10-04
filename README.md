@@ -1,5 +1,5 @@
 # Buggy-Demo-Website-Testing
-Buggy Demo Website Testing for Learning Purpose. 
+Buggy Demo Website Testing for Learning Purpose.
 
 # 📌 Project Overview
 
