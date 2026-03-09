@@ -1,7 +1,7 @@
 # Buggy-Demo-Website-Testing 
 Buggy Demo Website Testing for Learning Purpose. 
   
-# 📌 Project Overview
+# 📌 Project Overview 
 
 This repository contains the Test Plan and Test Cases for the Buggy Demo Website (https://buggy.justtestit.org/).
 The purpose of this testing effort is to validate the functionality, UI/UX, and compatibility of the website, ensuring a smooth user experience.
