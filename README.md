@@ -1,6 +1,6 @@
 # Buggy-Demo-Website-Testing
 Buggy Demo Website Testing for Learning Purpose.   
-   
+    
 # 📌 Project Overview
  
 This repository contains the Test Plan and Test Cases for the Buggy Demo Website (https://buggy.justtestit.org/).
